@@ -30,6 +30,11 @@ header{
     background-color: #E02C6D;
     text-decoration: none;
     padding: 10px 25px;
+    transition: 0.8s;
+}
+.button:hover{
+    color: #14373b;
+    background-color: #FFFFFF;
 }
 .text-box{
     width: 530px;
