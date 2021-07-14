@@ -24,18 +24,11 @@ header{
     padding: 0 0 115px 0;
 
 }
+.img-box img{
+    width: 530px;
+    height: 438px;
+}
 
-.button{
-    color: #FFFFFF;
-    background-color: #E02C6D;
-    text-decoration: none;
-    padding: 10px 25px;
-    transition: 0.8s;
-}
-.button:hover{
-    color: #14373b;
-    background-color: #FFFFFF;
-}
 .text-box{
     width: 530px;
     height: 438px;
@@ -49,10 +42,22 @@ header{
 .button-box{
     margin: 25px 0 0 0;
 }
-.img-box img{
-    width: 530px;
-    height: 438px;
+.button{
+    color: #FFFFFF;
+    background-color: #E02C6D;
+    text-decoration: none;
+    padding: 10px 25px;
+    transition: 0.8s;
 }
+.button:hover{
+    color: #14373b;
+    background-color: aqua;
+}
+.fas fa-arrow-right{
+    padding: 10px;
+    margin-right: 1px;
+}
+
 /* Header-css style-end */
 
 
